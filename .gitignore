@@ -1,0 +1,14 @@
+# Local credentials and environment files
+.env
+.env.*
+!.env.example
+
+# Local editor and operating-system files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# Unused original card icons; the published pages use optimized WebP copies
+assets/*.png
